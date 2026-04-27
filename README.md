@@ -36,13 +36,13 @@ This project uses AWS Lambda to process text files uploaded to an S3 bucket and 
 ![Architecture](screenshots/architecture.png)
 
 ### Lambda Configuration
-![Lambda](screenshots/Lambda configuration.png)
+![Lambda](screenshots/lambda-configuration.png)
 
 ### S3 Trigger
-![S3 Trigger](screenshots/s3 trigger.png)
+![S3 Trigger](screenshots/s3-trigger.png)
 
 ### SNS Setup
-![SNS](screenshots/SNS Notification.png)
+![SNS](screenshots/sns-notification.png)
 
 ### Result
-![Result](screenshots/Result.png)
+![Result](screenshots/result.png)
