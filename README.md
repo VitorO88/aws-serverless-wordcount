@@ -29,3 +29,20 @@ This project uses AWS Lambda to process text files uploaded to an S3 bucket and 
 ## Future improvements
 - Add Terraform to automate deployment
 - Store results in DynamoDB
+
+## 📸 Screenshots
+
+### Architecture
+![Architecture](screenshots/architecture.png)
+
+### Lambda Configuration
+![Lambda](screenshots/Lambda configuration.png)
+
+### S3 Trigger
+![S3 Trigger](screenshots/s3 trigger.png)
+
+### SNS Setup
+![SNS](screenshots/SNS Notification.png)
+
+### Result
+![Result](screenshots/Result.png)
